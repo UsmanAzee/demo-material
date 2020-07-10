@@ -1,0 +1,42 @@
+[
+	{
+		"label": "Order Received",
+		"name": "OrderReceived",
+		"id": "1"
+	},
+	{
+		"label": "Kitchen",
+		"name": "Kitchen",
+		"id": "3"
+	},
+	{
+		"label": "Staging",
+		"name": "Staging",
+		"id": "4"
+	},
+	{
+		"label": "Ready For Delivery",
+		"name": "ReadyForDelivery",
+		"id": "5"
+	},
+	{
+		"label": "Ready For Pickup",
+		"name": "ReadyForPickup",
+		"id": "6"
+	},
+	{
+		"label": "Delivery In Progress",
+		"name": "DeliveryInProgress",
+		"id": "8"
+	},
+	{
+		"label": "Delivered",
+		"name": "Delivered",
+		"id": "10"
+	},
+	{
+		"label": "Picked up",
+		"name": "Pickedup",
+		"id": "11"
+	}
+]
